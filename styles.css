@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+table,tr,th,td{
+	border: 1px solid black;
+}
+th{
+	width: 50%;
+}
+table{
+	width: 100%;
+	text-align: center;
+}
+
+#tagr{
+	height: 200px
+}
+
+#uni{
+	background: rgb(0,0,0);
+	color: white;
+}
